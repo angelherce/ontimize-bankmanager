@@ -2,3 +2,5 @@
 /.idea/
 bankmanager-server/src/main/db/*.log
 bankmanager-server/src/main/db/*.script
+bankmanager-server/src/main/resources/license.dat
+*/*.log.*
