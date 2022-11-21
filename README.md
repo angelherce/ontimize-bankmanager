@@ -10,3 +10,13 @@
 ```shell
 mvn clean install -U
 ```
+
+## 2 - Iniciar la Base de Datos
+
+```shell
+cd ./bankmanager-server
+```
+
+```shell
+mvn validate exec:java -P run_database -U
+```

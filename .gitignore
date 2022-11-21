@@ -1,2 +1,4 @@
 */target
 /.idea/
+bankmanager-server/src/main/db/*.log
+bankmanager-server/src/main/db/*.script
