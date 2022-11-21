@@ -20,6 +20,12 @@
 
     <dependencies>
         <dependency>
+            <groupId>com.ontimize</groupId>
+            <artifactId>bankmanager-common</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+
+        <dependency>
             <groupId>hsqldb</groupId>
             <artifactId>hsqldb</artifactId>
             <version>${hsqldb.version}</version>
